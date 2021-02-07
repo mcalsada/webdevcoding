@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*These are CSS classes for the headers*/
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5 {
+    color:#08415c;
+}
+
+h1 {
+    font-size: 48px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    padding: 10px 0 8px;
+}
+
+.header-special, .header-detailed {
+    font-size: 26px;
+    padding: 15px 0 0;
+}
+
+.section-header {
+    font-size: 24px;
+    padding: 0 0 10px;
+}
+
+.card-title {
+    color: #08415c;
+    font-size: 22px;
+    padding: 10px 0 0;
+}
+
+label {
+    font: bold 16px;
+}
+
+p {
+    color: #5f5e5e;
+    font-size: 16px;
+    padding: 10px;
+
+}
+
+a {
+    color: #08415c;
+    text-decoration: none;
+}
+
+/*These are the CSS classes for the header and footer */
+.head {
+    background-color: #fff;
+    height: auto;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.foot {
+    border-top: 1px solid #0000001a;
+    font-size: 14px;
+    margin-top: 1rem;
+    padding: 1rem 0;
+}
+
+
+.navbar-dark .navbar-nav .nav-link:hover, a:hover, .dropdown-item:focus, .dropdown-item:hover {
+    text-decoration: underline;
+}
+
+
+.forgot-password-link, .first-time-link{
+    padding: 10px 0 0;
+}
