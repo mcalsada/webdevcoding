@@ -13,7 +13,7 @@ An intern developed an initial logon page for Acme Math. The intern was unable t
 
 ## Instructions
 
-1. What coding issues have you identified on the `Logon.html` page? You should be able to find at least 10 issues that exist on the page.
+1. What issues have you identified on the `Logon.html` page? There are a number of issues and you may not find them all. Spend between 30 to 60 minutes trying to identify as many as you can.  
     * Categorize the priority of correcting the issues as _high_, or _standard_.
         * *Low* priority should be used for any coding issues that you consider to be not following best web development practices.
         * *High* priority should be used for any issues that could be potential security or accessibility issues or things that are broken.
