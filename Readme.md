@@ -1,7 +1,7 @@
 # Web Developer Code Review
 
 ## Situation
-An intern developed an initial logon page for Acme Math. The intern was unable to complete the project. Acme needs to transition this project and put it into production.They are looking to you to review the code and find issues that should be corrected. 
+An intern developed an initial logon page for Acme Math. The intern was unable to complete the project. Acme needs to transition this project and put it into production. They are looking to you to review the code and find issues that should be corrected. 
 
 ## Known Issues
 
